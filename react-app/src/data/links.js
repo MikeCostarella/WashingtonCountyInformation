@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Data Dynamics (DDTI)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Washington County Government", category: "Government", subcategory: "County", url: "https://washingtongov.org/", description: "Official Washington County government website and department listing." },
